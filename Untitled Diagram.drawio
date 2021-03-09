@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T19:48:55.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="RZ6LYjtob6xorDXjJ6TD" version="14.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-09T19:49:15.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="ZC08H2UH3XaNauS7fiRs" version="14.4.6" type="github">
   <diagram id="i_vO6CL65eFUIL7xPz2L" name="Page-1">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
         </mxCell>
         <mxCell id="aBNJ7qtxMeprO6_v484M-26" value="Enable" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aBNJ7qtxMeprO6_v484M-25">
           <mxGeometry x="-0.1456" y="-2" relative="1" as="geometry">
-            <mxPoint x="-22.07" y="-8" as="offset" />
+            <mxPoint x="-22.07" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aBNJ7qtxMeprO6_v484M-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aBNJ7qtxMeprO6_v484M-2" target="aBNJ7qtxMeprO6_v484M-21">
@@ -107,7 +107,7 @@
         </mxCell>
         <mxCell id="aBNJ7qtxMeprO6_v484M-28" value="ADC_in" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aBNJ7qtxMeprO6_v484M-24">
           <mxGeometry x="0.075" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-41.03" y="33.41" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aBNJ7qtxMeprO6_v484M-21" value="Voltage monitor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
