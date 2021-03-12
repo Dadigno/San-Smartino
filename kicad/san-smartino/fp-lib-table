@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name san-smartino)(type KiCad)(uri ${KIPRJMOD}/san-smartino.pretty)(options "")(descr ""))
+)
