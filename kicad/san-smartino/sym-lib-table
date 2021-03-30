@@ -1,4 +1,7 @@
 (sym_lib_table
   (lib (name san-smartino)(type Legacy)(uri ${KIPRJMOD}/san-smartino.lib)(options "")(descr ""))
   (lib (name ESP8266)(type Legacy)(uri ${KIPRJMOD}/kicad-ESP8266-master/ESP8266.lib)(options "")(descr ""))
+  (lib (name dw01)(type Legacy)(uri ${KIPRJMOD}/tp4056-master/lib/dw01.lib)(options "")(descr ""))
+  (lib (name fs8205a)(type Legacy)(uri ${KIPRJMOD}/tp4056-master/lib/fs8205a.lib)(options "")(descr ""))
+  (lib (name tp4056)(type Legacy)(uri ${KIPRJMOD}/tp4056-master/lib/tp4056.lib)(options "")(descr ""))
 )
